@@ -5,11 +5,10 @@ import argparse
 import binascii
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import List, Tuple, Dict, Any
+from typing import Tuple, Dict, Any
 
 import cv2
 import numpy as np
-from PIL import Image
 from ultralytics import YOLO  
 
 DEFAULT_FACE_MODEL = "data/wajah.pt"
