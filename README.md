@@ -7,10 +7,47 @@
 - Deteksi **jenis kendaraan**
 - Deteksi **warna dominan kendaraan**
 
-Semua fitur ini diproses dalam satu **[pipeline](<https://en.wikipedia.org/wiki/Pipeline_(computing)>)** terstruktur.
+Semua fitur ini diproses dalam satu <a href="https://en.wikipedia.org/wiki/Pipeline_(computing)" target="_blank" rel="noopener noreferrer">pipeline</a> terstruktur.
 
-Dibangun dengan **[YOLO](https://en.wikipedia.org/wiki/You_Only_Look_Once)** dan teknik **[computer vision](https://en.wikipedia.org/wiki/Computer_vision)** modern, sistem ini dirancang untuk:
+Dibangun dengan <a href="https://en.wikipedia.org/wiki/You_Only_Look_Once" target="_blank" rel="noopener noreferrer">YOLO</a> dan teknik <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank" rel="noopener noreferrer">computer vision</a> modern, sistem ini dirancang untuk:
 
 - Mendukung **manajemen parkir otomatis**
 - Meningkatkan **pengawasan keamanan**
-- Memungkinkan **integrasi mudah** dengan aplikasi backend seperti **[Python/Flask](https://flask.palletsprojects.com/)** maupun dashboard web.
+- Memungkinkan **integrasi mudah** dengan aplikasi backend seperti <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">Python/Flask</a> maupun dashboard web.
+
+---
+
+## 🎯 Fitur Utama
+
+### 🔍 1. Deteksi Wajah
+
+Menggunakan model YOLO kustom untuk mendeteksi wajah pengemudi saat masuk atau keluar area parkir.
+
+### 🔢 2. Deteksi Plat Nomor
+
+Membaca dan mengenali plat nomor menggunakan _license-plate model_ khusus.
+
+### 🚘 3. Deteksi Jenis Kendaraan
+
+Mengidentifikasi jenis kendaraan, seperti:
+
+- Mobil
+- Motor
+- Kendaraan darurat
+- Non-kendaraan
+
+### 🎨 4. Deteksi Warna Dominan Kendaraan
+
+Mengambil warna paling dominan dari citra kendaraan sebagai variabel tambahan keamanan.
+
+---
+
+## 📦 Model
+
+Folder data/:
+| Model | Fungsi |
+| --------------- | ----------------------- |
+| `wajah.pt` | Deteksi wajah |
+| `plat_nomor.pt` | Deteksi plat nomor |
+| `kendaraan.pt` | Deteksi jenis kendaraan |
+| `yolov8n.pt` | Backbone dasar YOLO |
