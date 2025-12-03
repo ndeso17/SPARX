@@ -53,24 +53,36 @@ python deteksiwajah.py --help
 ### JSON Structure:
 
 ```
-json{
-  "image_path": "bahlil.jpeg",
-  "timestamp": "2025-12-03T13:48:19+00:00",
-  "image_size": {"width": 212, "height": 237},
+{
+  "image_path": "img/pakbahlil.jpeg",
+  "timestamp": "2025-12-03T14:21:34.423476+00:00",
+  "image_size": {
+    "width": 212,
+    "height": 237
+  },
   "parameters": {
     "confidence_threshold": 0.5,
     "iou_threshold": 0.45,
     "min_face_area_ratio": 0.01
   },
-  "faces": [
+  "wajah": [
     {
       "class_name": "face",
-      "confidence": 0.893,
-      "bbox": {"x1": 62, "y1": 29, "x2": 147, "y2": 149},
-      "bbox_size": {"width": 85, "height": 120, "area": 10200},
+      "confidence": 0.8932997584342957,
+      "bbox": {
+        "x1": 62,
+        "y1": 29,
+        "x2": 147,
+        "y2": 149
+      },
+      "bbox_size": {
+        "width": 85,
+        "height": 120,
+        "area": 10200
+      },
       "validation": "OK"
     }
   ],
-  "filtered_faces": []
+  "filtered_wajah": []
 }
 ```
