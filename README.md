@@ -51,3 +51,22 @@ Folder data/:
 | `plat_nomor.pt` | Deteksi plat nomor |
 | `kendaraan.pt` | Deteksi jenis kendaraan |
 | `yolov8n.pt` | Backbone dasar YOLO |
+
+---
+
+## 📜 Lisensi
+
+Proyek SPARX dirilis menggunakan lisensi **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
+## Anda bebas untuk:
+
+- Menggunakan, menyalin, dan membagikan kode ini.
+- Memodifikasi atau mengembangkan fitur baru dari kode ini.
+
+## Dengan syarat:
+
+1. Memberikan atribusi kepada pembuat asli (**ndeso17**).
+2. Tidak digunakan untuk keperluan komersial, termasuk menjual, menyewakan, atau memasukkan kode ini ke produk/layanan berbayar.
+
+Lisensi lengkap dapat dibaca di:  
+[https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
