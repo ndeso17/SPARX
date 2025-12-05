@@ -313,7 +313,7 @@ Proyek SPARX dirilis menggunakan lisensi **Creative Commons Attribution–NonCom
 
 ## Dengan syarat:
 
-1. Memberikan atribusi kepada pembuat asli (**ndeso17**).
+1. Memberikan atribusi kepada pembuat dan kontibutor.
 2. Tidak digunakan untuk keperluan komersial, termasuk menjual, menyewakan, atau memasukkan kode ini ke produk/layanan berbayar.
 
 Lisensi lengkap dapat dibaca di:  
