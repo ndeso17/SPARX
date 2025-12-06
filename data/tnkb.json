@@ -1,0 +1,29 @@
+[
+    {
+        "nama": "FIRDAUS",
+        "nim": "24225001",
+        "kendaraan": "motor",
+        "warna": "Putih",
+        "nopol": "DK 1449 CA",
+        "faces": "data/wajah_ipcam/faces/face_20251206_004651_283908.jpg",
+        "frames": "data/wajah_ipcam/frames/frame_20251206_004651_283908_frame.jpg"
+    },
+    {
+        "nama": "KHILMY",
+        "nim": "24225001",
+        "kendaraan": "mobil",
+        "warna": "Hitam",
+        "nopol": "DK 1449 CL",
+        "faces": "data/wajah_ipcam/faces/face_20251206_004651_283908.jpg",
+        "frames": "data/wajah_ipcam/frames/frame_20251206_004651_283908_frame.jpg"
+    },
+    {
+        "nama": "ROMADON",
+        "nim": "24225001",
+        "kendaraan": "motor",
+        "warna": "Putih",
+        "nopol": "G 6666 JAG",
+        "faces": "data/wajah_ipcam/faces/face_20251206_004651_283908.jpg",
+        "frames": "data/wajah_ipcam/frames/frame_20251206_004651_283908_frame.jpg"
+    }
+]
