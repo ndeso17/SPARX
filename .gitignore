@@ -1,0 +1,3 @@
+data/DatasetCharacter/*
+*copy*
+output/wajah_ipcam/detected_faces.json
