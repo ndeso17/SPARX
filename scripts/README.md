@@ -62,7 +62,7 @@ Script Python untuk deteksi wajah real-time dari IP Camera menggunakan YOLOv8. S
 ## Dependencies
 
 ```bash
-pip install opencv-python numpy ultralytics
+pip install opencv-python numpy ultralytics pytesseract easyocr tensorflow scikit-learn
 ```
 
 ---
