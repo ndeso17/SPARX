@@ -1,0 +1,273 @@
+{
+    "wilayah": [
+        {
+            "nama": "Sumatera",
+            "kode_plat": [
+                {
+                    "kode": "BA",
+                    "keterangan": "Sumatera Barat"
+                },
+                {
+                    "kode": "BB",
+                    "keterangan": "Sumatera Utara"
+                },
+                {
+                    "kode": "BD",
+                    "keterangan": "Bengkulu"
+                },
+                {
+                    "kode": "BE",
+                    "keterangan": "Lampung"
+                },
+                {
+                    "kode": "BG",
+                    "keterangan": "Sumatera Selatan"
+                },
+                {
+                    "kode": "BH",
+                    "keterangan": "Jambi"
+                },
+                {
+                    "kode": "BK",
+                    "keterangan": "Sumatera Utara"
+                },
+                {
+                    "kode": "BL",
+                    "keterangan": "Aceh"
+                },
+                {
+                    "kode": "BM",
+                    "keterangan": "Riau"
+                },
+                {
+                    "kode": "BN",
+                    "keterangan": "Kepulauan Bangka Belitung"
+                },
+                {
+                    "kode": "BP",
+                    "keterangan": "Kepulauan Riau"
+                }
+            ]
+        },
+        {
+            "nama": "Jakarta, Banten, Jawa Barat",
+            "kode_plat": [
+                {
+                    "kode": "A",
+                    "keterangan": "Banten"
+                },
+                {
+                    "kode": "B",
+                    "keterangan": "Jadetabek"
+                },
+                {
+                    "kode": "D",
+                    "keterangan": "Keresidenan Priangan Tengah"
+                },
+                {
+                    "kode": "E",
+                    "keterangan": "Keresidenan Cirebon"
+                },
+                {
+                    "kode": "F",
+                    "keterangan": "Keresidenan Bogor dan Priangan Barat"
+                },
+                {
+                    "kode": "T",
+                    "keterangan": "Keresidenan Karawang"
+                },
+                {
+                    "kode": "Z",
+                    "keterangan": "Priangan Timur"
+                }
+            ]
+        },
+        {
+            "nama": "Jawa Tengah dan DI Yogyakarta",
+            "kode_plat": [
+                {
+                    "kode": "G",
+                    "keterangan": "Keresidenan Pekalongan"
+                },
+                {
+                    "kode": "H",
+                    "keterangan": "Keresidenan Semarang"
+                },
+                {
+                    "kode": "K",
+                    "keterangan": "Keresidenan Pati"
+                },
+                {
+                    "kode": "R",
+                    "keterangan": "Keresidenan Banyumas"
+                },
+                {
+                    "kode": "AA",
+                    "keterangan": "Keresidenan Kedu"
+                },
+                {
+                    "kode": "AB",
+                    "keterangan": "DI Yogyakarta"
+                },
+                {
+                    "kode": "AD",
+                    "keterangan": "Keresidenan Surakarta"
+                }
+            ]
+        },
+        {
+            "nama": "Jawa Timur",
+            "kode_plat": [
+                {
+                    "kode": "L",
+                    "keterangan": "Kota Surabaya"
+                },
+                {
+                    "kode": "M",
+                    "keterangan": "Keresidenan Madura"
+                },
+                {
+                    "kode": "N",
+                    "keterangan": "Keresidenan Malang"
+                },
+                {
+                    "kode": "P",
+                    "keterangan": "Keresidenan Besuki"
+                },
+                {
+                    "kode": "S",
+                    "keterangan": "Keresidenan Bojonegoro"
+                },
+                {
+                    "kode": "W",
+                    "keterangan": "Kabupaten Gresik"
+                },
+                {
+                    "kode": "AE",
+                    "keterangan": "Keresidenan Madiun"
+                },
+                {
+                    "kode": "AG",
+                    "keterangan": "Keresidenan Kediri"
+                }
+            ]
+        },
+        {
+            "nama": "Bali dan Nusa Tenggara",
+            "kode_plat": [
+                {
+                    "kode": "DH",
+                    "keterangan": "NTT Pulau Timor"
+                },
+                {
+                    "kode": "DK",
+                    "keterangan": "Bali"
+                },
+                {
+                    "kode": "DR",
+                    "keterangan": "NTB Pulau Lombok"
+                },
+                {
+                    "kode": "EA",
+                    "keterangan": "NTB Pulau Sumbawa"
+                },
+                {
+                    "kode": "EB",
+                    "keterangan": "NTT Pulau Flores"
+                },
+                {
+                    "kode": "ED",
+                    "keterangan": "NTT Pulau Sumba"
+                }
+            ]
+        },
+        {
+            "nama": "Kalimantan",
+            "kode_plat": [
+                {
+                    "kode": "DA",
+                    "keterangan": "Kalimantan Selatan"
+                },
+                {
+                    "kode": "KB",
+                    "keterangan": "Kalimantan Barat"
+                },
+                {
+                    "kode": "KH",
+                    "keterangan": "Kalimantan Tengah"
+                },
+                {
+                    "kode": "KT",
+                    "keterangan": "Kalimantan Timur"
+                },
+                {
+                    "kode": "KU",
+                    "keterangan": "Kalimantan Utara"
+                }
+            ]
+        },
+        {
+            "nama": "Gorontalo dan Sulawesi",
+            "kode_plat": [
+                {
+                    "kode": "DB",
+                    "keterangan": "Sulawesi Utara daratan"
+                },
+                {
+                    "kode": "DC",
+                    "keterangan": "Sulawesi Barat"
+                },
+                {
+                    "kode": "DD",
+                    "keterangan": "Sulawesi Selatan bagian selatan"
+                },
+                {
+                    "kode": "DL",
+                    "keterangan": "Sulawesi Utara kepulauan"
+                },
+                {
+                    "kode": "DM",
+                    "keterangan": "Gorontalo"
+                },
+                {
+                    "kode": "DN",
+                    "keterangan": "Sulawesi Tengah"
+                },
+                {
+                    "kode": "DP",
+                    "keterangan": "Sulawesi Selatan bagian utara"
+                },
+                {
+                    "kode": "DT",
+                    "keterangan": "Sulawesi Tenggara"
+                },
+                {
+                    "kode": "DW",
+                    "keterangan": "Sulawesi Selatan bagian tengah"
+                }
+            ]
+        },
+        {
+            "nama": "Maluku dan Papua",
+            "kode_plat": [
+                {
+                    "kode": "DE",
+                    "keterangan": "Maluku"
+                },
+                {
+                    "kode": "DG",
+                    "keterangan": "Maluku Utara"
+                },
+                {
+                    "kode": "PA",
+                    "keterangan": "Papua"
+                },
+                {
+                    "kode": "PB",
+                    "keterangan": "Papua Barat"
+                }
+            ]
+        }
+    ],
+    "catatan": "Kode plat nomor kendaraan bermotor di Indonesia berdasarkan wilayah"
+}
