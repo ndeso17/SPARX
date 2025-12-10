@@ -9,3 +9,4 @@ env/
 envConvOnnx
 .python-version
 .vscode/
+training/
