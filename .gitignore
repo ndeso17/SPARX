@@ -1,3 +1,11 @@
 data/DatasetCharacter/*
 *copy*
-output/wajah_ipcam/detected_faces.json
+output/*
+data/PlatNomor/*
+data/runs/*
+assets/
+*.zip
+env/
+envConvOnnx
+.python-version
+.vscode/
