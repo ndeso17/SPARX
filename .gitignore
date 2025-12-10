@@ -9,4 +9,4 @@ env/
 envConvOnnx
 .python-version
 .vscode/
-training/
+img/*
